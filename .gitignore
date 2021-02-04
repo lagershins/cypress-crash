@@ -1,0 +1,4 @@
+cypress-crash.iml
+node_modules/
+cypress/screenshots/
+cypress/videos/

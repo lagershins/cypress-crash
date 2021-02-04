@@ -1,0 +1,15 @@
+{
+  "name": "cypress-crash",
+  "version": "1.0.0",
+  "description": "Reproduce error",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Marcus Hasslinger",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "6.4.0",
+    "typescript": "^4.1.3"
+  }
+}

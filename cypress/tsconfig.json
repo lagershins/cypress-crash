@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "es2020",
+      "dom"
+    ],
+    "resolveJsonModule": true,
+    "target": "es5",
+    "types": ["cypress"]
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.js"
+  ]
+}
